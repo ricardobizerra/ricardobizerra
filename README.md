@@ -6,6 +6,11 @@
   <a href="mailto:ricardo.bizerra19@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </div>
 
+### About Me
+
+- Undergraduate Student in Computer Science at CIn-UFPE (4th semester)
+- Currently working as a Software Manager at CITi @citi-ufpe
+
 ### Front-End
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
