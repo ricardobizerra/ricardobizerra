@@ -9,14 +9,18 @@
 ### About Me
 
 - Undergraduate Student in Computer Science at CIn-UFPE (4th semester)
-- Currently working as a Software Manager at CITi @citi-ufpe
+- Worked at CITi [(@CITi-UFPE)](https://github.com/citi-ufpe) as:
+  - Full-Stack Software Developer (January 2023 - June 2023)
+  - Software Manager (July 2023 - December 2023)
+- Open to freelance projects 
 
 ### Front-End
 
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-64DAFB?style=for-the-badge&logo=react&logoColor=333333)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react)
-![styled components](https://img.shields.io/badge/-styled%20components-333333?style=for-the-badge&logo=styled-components)
+![React Native](https://img.shields.io/badge/-React%20Native-64DAFB?style=for-the-badge&logo=react&logoColor=333333)
+![styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Back-End
 
@@ -25,6 +29,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ### General
 
