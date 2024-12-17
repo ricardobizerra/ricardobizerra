@@ -10,7 +10,7 @@
 
 #### Formation
 
-- Undergraduate Student in Computer Science at CIn-UFPE *(6th semester, June 2022 - current)*
+- Undergraduate Student in Computer Science at CIn-UFPE *(June 2022 - current)*
 - Associate Degree in System Analysis and Development, through distance learning, at Centro Universitário Senac *(February 2022 - June 2024)*
 
 #### Work
