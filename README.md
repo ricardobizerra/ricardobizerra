@@ -8,11 +8,18 @@
 
 ### About Me
 
-- Undergraduate Student in Computer Science at CIn-UFPE (4th semester)
-- Worked at CITi [(@CITi-UFPE)](https://github.com/citi-ufpe) as:
-  - Full-Stack Software Developer (January 2023 - June 2023)
-  - Software Manager (July 2023 - December 2023)
-- Open to freelance projects 
+#### Formation
+
+- Undergraduate Student in Computer Science at CIn-UFPE *(6th semester, June 2022 - current)*
+- Associate Degree in System Analysis and Development, through distance learning, at Centro Universitário Senac *(February 2022 - June 2024)*
+
+#### Work
+
+- TrackingTrade *(2024 - current)*
+  - Front-End Developer Intern 
+- CITi [@CITi-UFPE](https://github.com/citi-ufpe) *(2023)*
+  - Software Manager *(July 2023 - December 2023)*
+  - Full-Stack Software Developer *(January 2023 - June 2023)*
 
 ### Front-End
 
@@ -41,5 +48,5 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ricardobizerra&theme=yeblu&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="150rem" alt="GitHub Streak" /></a>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobizerra&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobizerra&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=yeblu&exclude_repo=if681-ium-prototipo"/>
 </div>
